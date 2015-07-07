@@ -16,7 +16,7 @@ private:
 
 public:
 	WhatsappConnectionAPI(std::string phone, std::string password, std::string nick);
-	~WhatsappConnectionAPI();
+	~WhatsappConnectionAPI(918867399564,"madhusudhanads", "madhuds");
 
 	// Login/Auth functions
 	void doLogin(std::string);
