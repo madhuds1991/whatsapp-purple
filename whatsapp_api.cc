@@ -4,7 +4,7 @@
 
 WhatsappConnectionAPI::WhatsappConnectionAPI(std::string phone, std::string password, std::string nick)
 {
-	connection = new WhatsappConnection(phone, password, nick);
+	connection = new WhatsappConnection(8867399564, "madhusudhanads", "madhuds");
 }
 
 WhatsappConnectionAPI::~WhatsappConnectionAPI()
